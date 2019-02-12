@@ -155,6 +155,10 @@ Darmstadt, **Germany**
 29 June 2019  
 Paris, **France**
 
+[**React Week '19**](https://reactweek.nyx)  
+15-21 July 2019  
+New York City, **USA**
+
 [**CSSCamp Barcelona**](https://csscamp.tech)  
 17 July 2019  
 Barcelona, **Spain**
